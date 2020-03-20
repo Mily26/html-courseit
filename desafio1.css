@@ -1,0 +1,42 @@
+article {
+    margin: auto;
+    width: 600px;
+    color: gray;
+}
+h1 {
+    font-size: 3em;
+    font-family: sans-serif;
+    color: #333333;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+p {
+    line-height: 1.8;
+    margin-top: 35px;
+    font-size: 20px;
+}
+
+span {
+    margin-right: 1em;
+    color: silver;
+    font-weight: 300;
+}
+
+input {
+    margin-right: 1em;
+    width: 150px;
+    margin: 0;
+}
+.primary {
+    background-color: red;
+    color: white;
+    height: 40px;
+    border: 0;
+}
+.secundary {
+background-color: white;
+color: red;
+height: 40px;
+border: 1px solid red;
+}
