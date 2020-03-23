@@ -1,0 +1,101 @@
+body {
+    display: flex;
+}
+.left-bar {
+    text-align: center;
+    width: 280px;
+    box-shadow: #bbb -2px -2px 88px 0px;
+    padding-bottom: 20px;
+}
+.left-bar img  {
+    margin-bottom: 23px;
+}
+.left-bar hr {
+    border-top: 1px dashed #cccccc;
+    margin-top: 23px;
+    margin-bottom: 20px;
+}
+.left-bar h1 {
+    font-family: Poppins, sans-serif;
+    font-size: 20px;
+    margin: 20px 0 10px;
+    color: #333333;
+}
+.left-bar h2 {
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    color: #c1c1c1;
+}
+.content {
+    margin-left: 15px;
+    margin-right: 80px;
+    box-shadow: #bbb -2px -2px 88px 0px;
+    padding: 50px 30px 30px 30px;
+}
+.icon {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 42px;
+    border-radius: 40px;
+}
+.facebook {
+    background-color: #3b5998;
+}
+.twitter {
+    background-color: #1DA1F2;
+}
+.linkedin {
+    background-color: #0077B5;
+}
+.github {
+    background-color: #333333;
+}
+.title {
+    font-family: Poppins, sans-serif;
+    font-size: 25px;
+    color: #333333;
+    margin: 20px 0 10px;
+    font-weight: 600;
+    
+}
+.content hr {
+    border-top: 1px dashed #cccccc;
+}
+article h1 {
+    font-family: Poppins, sans-serif;
+    font-size: 25px;
+    margin: 35px 0 10px;
+    color: #333333;
+}
+article span {
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    color: #8c8c8c;
+    padding: 10px 0;
+    display: inline-block;
+}
+article a {
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    color: #1abc9c;
+    text-decoration: none;
+    font-weight: 600;
+    line-height: 30px;
+    
+}
+article p {
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    color: #696868;
+    margin: 0 0 10px;
+    font-weight: 300;
+    line-height: 30px
+}
+.read-more {
+    font-size: 16px;
+    margin: 8px 30px 8px 5px;
+    padding: 10px 60px 10px 0;
+}
