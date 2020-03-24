@@ -1,0 +1,86 @@
+.about {
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    text-decoration: none;
+    color: #898989;
+    font-size: 12px;
+    padding: 19px;
+    display: inline-block;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.contact {
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    text-decoration: none;
+    color: #898989;
+    font-size: 12px;
+    padding: 19px;
+    display: inline-block;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.links {
+    text-align: center;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.sass {
+    background-color: #0082c8;
+   
+}
+.css3 {
+    background-color: #72616e;
+}
+.welcome {
+    background-color: #e8846b;
+}
+.css3d {
+    background-color: #16528e;
+}
+.tutorial {
+    background-color: #e54b4b;
+}
+.digital {
+    background-color: #a2c5bf;
+}
+.container {
+    display: flex;
+    flex-grow: 1;
+}
+.column {
+    width: 16.6%;
+    color: white;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 47px 40px;
+}
+.column span {
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    padding: 0 2px;
+    font-weight: 600;
+}
+.column h1 {
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 45px;
+    margin: 0;
+}
+.column p {
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    margin: 15px 0;
+}
+.column a {
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    margin: 0 2px;
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+}
