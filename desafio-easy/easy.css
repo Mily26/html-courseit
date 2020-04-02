@@ -1,0 +1,95 @@
+body {
+    background-color: #f4f4f4;
+    font-family: sans-serif;
+}
+
+.content {
+    background-color: transparent;
+    position: relative;
+    margin: 0 auto;
+    max-width: 600px;
+    min-width: 250px;
+}
+.card {
+    background-color: white;
+    padding: 45px 20px;
+    margin-top: 130px;
+    text-align: center;
+    border-radius: 4px;
+    
+}
+.card h1 {
+    letter-spacing: 4px;
+}
+.card input {
+    border: 0;
+    border-radius: 2px;
+    background-color: #ec6d64;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 25px;
+}
+ .pink {
+    background-color: #ec6d64;
+    top: 0;
+    right: 0;
+    position: absolute;
+    left: 0;
+    height: 250px;
+    
+}
+
+.money {
+    background-color: black;
+    color: white;
+    padding: 35px;
+    border-radius: 4px;
+}
+.money h1 {
+    margin: 0;
+    font-size: 20px;
+}
+.money p {
+    font-size: 15px;
+    color: silver;
+}
+.money p strong {
+    color: white;
+}
+.learn {
+    color: #ec6d64;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 15px;
+}
+.help {
+    background-color: pink;
+    text-align: center;
+    padding: 35px;
+    margin-top: 25px;
+    border-radius: 4px;
+}
+.help h1 {
+    margin-bottom: 1px;
+    font-size: 18px
+}
+.letter {
+    color: black;
+    font-weight: bold;
+}
+.fin p {
+    color: grey;
+}
+.fin strong {
+    color: black;
+    text-decoration: underline;
+}
+.fin {
+    margin-top: 32px;
+    margin-left: 30px;
+}
+.here {
+    color: #ec6d64;
+    font-weight: bold;
+}
